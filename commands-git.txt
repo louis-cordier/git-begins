@@ -2,5 +2,4 @@ git add
 git commit 
 git push
 git pull
-git branch [nom-de-branche]
-git checkout [nom-de-branche]
+
